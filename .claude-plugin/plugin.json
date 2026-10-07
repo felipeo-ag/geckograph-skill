@@ -1,0 +1,12 @@
+{
+  "name": "geckograph",
+  "description": "Keeps a customer's GeckoGraph graph in sync with their code. First use edits AGENTS.md or CLAUDE.md. Feature changes run geckograph scan and geckograph check. A pull request waits for a full geckograph check --runtime.",
+  "version": "0.1.0",
+  "author": {
+    "name": "GeckoGraph",
+    "url": "https://app.geckograph.com"
+  },
+  "homepage": "https://app.geckograph.com",
+  "license": "MIT",
+  "keywords": ["geckograph", "knowledge-graph"]
+}
